@@ -1,0 +1,80 @@
+h1{
+    margin-left:330px; 
+    margin-right:330px;
+}
+
+p {
+
+    position: absolute;
+	right:0;
+	bottom:0;
+	color:#FFFFFF;
+}
+
+.contenedor {
+	width:630px;
+	margin: 0 auto;
+	position:relative;
+}
+
+.img1{
+
+	background:url("../img/profile-1.png");
+	height:200px;
+	width:200px;
+	position:absolute;
+	left:0;
+	top:0;
+	
+ 
+}
+
+.img2{
+
+	background:url("../img/profile-2.png");
+	height:200px;
+	width:200px;
+	position:absolute;
+	left:210px;
+	top:0;
+
+
+}
+.img3{
+
+	background:url("../img/profile-3.png");
+	height:200px;
+	width:200px;
+	position:absolute;
+	left:420px;
+	top:0;
+	
+}
+
+.img4{
+	background:url("../img/profile-4.png");
+	height:200px;
+	width:200px;
+	position:absolute;
+	top: 210px;
+	left:0;
+}
+
+.img5 {
+	background:url("../img/profile-5.png");
+	height:200px;
+	width:200px;
+	position:absolute;
+	top:210px;
+	left:210px;
+}
+.img6 {
+	background:url("../img/profile-6.png");
+	height:200px;
+	width:200px;
+	position:absolute;
+	top:210px;
+	left:420px;
+
+
+}
